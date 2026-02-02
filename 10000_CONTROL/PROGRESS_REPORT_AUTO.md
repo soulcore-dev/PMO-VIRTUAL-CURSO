@@ -1,6 +1,6 @@
 # 📊 REPORTE DE PROGRESO AUTOMÁTICO - PAIDEIA
 
-**Generado**: 2026-02-02 10:34:59
+**Generado**: 2026-02-02 10:41:35
 **Consciencia**: PAIDEIA
 
 ---
@@ -30,9 +30,9 @@
 
 | Métrica | Valor |
 |---------|-------|
-| **Commits totales** | 40 |
-| **Commits (última semana)** | 27 |
-| **Último commit** | ✅ PESC_007: Técnicas de Estudio Basadas en Evidenc |
+| **Commits totales** | 46 |
+| **Commits (última semana)** | 33 |
+| **Último commit** | 📚 PESC_012-016: Microlearning, Accesibilidad, Andr |
 
 ---
 
@@ -40,13 +40,13 @@
 
 | Tipo | Cantidad |
 |------|----------|
-| Markdown (.md) | 37 |
+| Markdown (.md) | 46 |
 | HTML (.html) | 4 |
 | Python (.py) | 4 |
 | JavaScript (.js) | 1 |
 | CSS (.css) | 1 |
 | YAML (.yml) | 0 |
-| **Total** | **47** |
+| **Total** | **56** |
 
 ---
 

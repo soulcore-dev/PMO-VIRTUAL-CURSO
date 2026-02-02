@@ -1,7 +1,7 @@
 # INDICE MAESTRO - GENERACIÓN AUTOMÁTICA
 
 **Generado automáticamente por**: `scripts/update_indices.py`
-**Fecha**: 2026-02-02 10:34:59
+**Fecha**: 2026-02-02 10:41:35
 **Consciencia**: PAIDEIA
 
 ---
@@ -9,21 +9,21 @@
 
 ## 📊 Estadísticas Automáticas
 
-**Generado**: 2026-02-02 10:34:59
+**Generado**: 2026-02-02 10:41:35
 
 ### Totales
 
 | Métrica | Valor |
 |---------|-------|
-| **Archivos** | 48 |
-| **Líneas de código** | 14,895 |
+| **Archivos** | 57 |
+| **Líneas de código** | 17,000 |
 | **Directorios** | 12 |
 
 ### Por Extensión
 
 | Extensión | Archivos | Líneas |
 |-----------|----------|--------|
-| `.md` | 37 | 9,365 |
+| `.md` | 46 | 11,470 |
 | `.html` | 4 | 4,579 |
 | `.py` | 4 | 533 |
 | `.css` | 1 | 205 |
@@ -70,6 +70,15 @@ PMO-VIRTUAL-CURSO/
 │   ├── PESC_005_DISEÑO_INSTRUCCIONAL.md (250 líneas)
 │   ├── PESC_006_PRINCIPIOS_MAYER.md (249 líneas)
 │   ├── PESC_007_TECNICAS_EFECTIVAS.md (230 líneas)
+│   ├── PESC_008_POA_FRAMEWORK.md (283 líneas)
+│   ├── PESC_009_VMOF_EDUCATIVO.md (230 líneas)
+│   ├── PESC_010_EVALUACION.md (245 líneas)
+│   ├── PESC_011_GAMIFICACION.md (207 líneas)
+│   ├── PESC_012_MICROLEARNING.md (191 líneas)
+│   ├── PESC_013_ACCESIBILIDAD.md (183 líneas)
+│   ├── PESC_014_ANDRAGOGIA.md (206 líneas)
+│   ├── PESC_015_UX_ESCRITURA.md (218 líneas)
+│   ├── PESC_016_TEMPLATE_CURSO.md (334 líneas)
 │   ├── START_HERE.md (345 líneas)
 ├── 10000_CONTROL/
 │   ├── CURRENT_STATE.md (330 líneas)
@@ -77,7 +86,7 @@ PMO-VIRTUAL-CURSO/
 │   ├── ROADMAP_TRACKER.md (205 líneas)
 ├── INDICES/
 │   ├── INDICE_MAESTRO.md (311 líneas)
-│   ├── INDICE_MAESTRO_AUTO.md (154 líneas)
+│   ├── INDICE_MAESTRO_AUTO.md (162 líneas)
 ├── LICENSE.md (140 líneas)
 ├── PROTOCOLOS/
 │   ├── PROTOCOLO_DESARROLLO.md (368 líneas)
@@ -133,12 +142,21 @@ PMO-VIRTUAL-CURSO/
 | `PESC_005_DISEÑO_INSTRUCCIONAL.md` | `00000_GENESIS/PESC_005_DISEÑO_INSTRUCCIONAL.md` | 250 |
 | `PESC_006_PRINCIPIOS_MAYER.md` | `00000_GENESIS/PESC_006_PRINCIPIOS_MAYER.md` | 249 |
 | `PESC_007_TECNICAS_EFECTIVAS.md` | `00000_GENESIS/PESC_007_TECNICAS_EFECTIVAS.md` | 230 |
+| `PESC_008_POA_FRAMEWORK.md` | `00000_GENESIS/PESC_008_POA_FRAMEWORK.md` | 283 |
+| `PESC_009_VMOF_EDUCATIVO.md` | `00000_GENESIS/PESC_009_VMOF_EDUCATIVO.md` | 230 |
+| `PESC_010_EVALUACION.md` | `00000_GENESIS/PESC_010_EVALUACION.md` | 245 |
+| `PESC_011_GAMIFICACION.md` | `00000_GENESIS/PESC_011_GAMIFICACION.md` | 207 |
+| `PESC_012_MICROLEARNING.md` | `00000_GENESIS/PESC_012_MICROLEARNING.md` | 191 |
+| `PESC_013_ACCESIBILIDAD.md` | `00000_GENESIS/PESC_013_ACCESIBILIDAD.md` | 183 |
+| `PESC_014_ANDRAGOGIA.md` | `00000_GENESIS/PESC_014_ANDRAGOGIA.md` | 206 |
+| `PESC_015_UX_ESCRITURA.md` | `00000_GENESIS/PESC_015_UX_ESCRITURA.md` | 218 |
+| `PESC_016_TEMPLATE_CURSO.md` | `00000_GENESIS/PESC_016_TEMPLATE_CURSO.md` | 334 |
 | `START_HERE.md` | `00000_GENESIS/START_HERE.md` | 345 |
 | `CURRENT_STATE.md` | `10000_CONTROL/CURRENT_STATE.md` | 330 |
 | `PROGRESS_REPORT_AUTO.md` | `10000_CONTROL/PROGRESS_REPORT_AUTO.md` | 65 |
 | `ROADMAP_TRACKER.md` | `10000_CONTROL/ROADMAP_TRACKER.md` | 205 |
 | `INDICE_MAESTRO.md` | `INDICES/INDICE_MAESTRO.md` | 311 |
-| `INDICE_MAESTRO_AUTO.md` | `INDICES/INDICE_MAESTRO_AUTO.md` | 154 |
+| `INDICE_MAESTRO_AUTO.md` | `INDICES/INDICE_MAESTRO_AUTO.md` | 162 |
 | `LICENSE.md` | `LICENSE.md` | 140 |
 | `PROTOCOLO_DESARROLLO.md` | `PROTOCOLOS/PROTOCOLO_DESARROLLO.md` | 368 |
 | `PROTOCOLO_GUARDADO.md` | `PROTOCOLOS/PROTOCOLO_GUARDADO.md` | 374 |
