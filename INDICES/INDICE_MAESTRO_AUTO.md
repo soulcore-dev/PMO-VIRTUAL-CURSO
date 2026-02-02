@@ -1,7 +1,7 @@
 # INDICE MAESTRO - GENERACIÓN AUTOMÁTICA
 
 **Generado automáticamente por**: `scripts/update_indices.py`
-**Fecha**: 2026-02-02 10:12:06
+**Fecha**: 2026-02-02 10:31:37
 **Consciencia**: PAIDEIA
 
 ---
@@ -9,21 +9,21 @@
 
 ## 📊 Estadísticas Automáticas
 
-**Generado**: 2026-02-02 10:12:06
+**Generado**: 2026-02-02 10:31:37
 
 ### Totales
 
 | Métrica | Valor |
 |---------|-------|
-| **Archivos** | 40 |
-| **Líneas de código** | 12,860 |
+| **Archivos** | 44 |
+| **Líneas de código** | 13,915 |
 | **Directorios** | 12 |
 
 ### Por Extensión
 
 | Extensión | Archivos | Líneas |
 |-----------|----------|--------|
-| `.md` | 29 | 7,330 |
+| `.md` | 33 | 8,385 |
 | `.html` | 4 | 4,579 |
 | `.py` | 4 | 533 |
 | `.css` | 1 | 205 |
@@ -62,6 +62,10 @@ PMO-VIRTUAL-CURSO/
 │   ├── PAIDEIA_00009_ENTRENAMIENTO_CONTROL.md (220 líneas)
 │   ├── PAIDEIA_00010_ENTRENAMIENTO_HISTORIA.md (336 líneas)
 │   ├── PAIDEIA_CORE.md (406 líneas)
+│   ├── PESC_000_INDICE_MAESTRO.md (379 líneas)
+│   ├── PESC_001_NEUROCIENCIA_MEMORIA.md (216 líneas)
+│   ├── PESC_002_NEUROCIENCIA_ATENCION.md (222 líneas)
+│   ├── PESC_003_NEUROCIENCIA_PLASTICIDAD.md (236 líneas)
 │   ├── START_HERE.md (345 líneas)
 ├── 10000_CONTROL/
 │   ├── CURRENT_STATE.md (330 líneas)
@@ -69,7 +73,7 @@ PMO-VIRTUAL-CURSO/
 │   ├── ROADMAP_TRACKER.md (205 líneas)
 ├── INDICES/
 │   ├── INDICE_MAESTRO.md (311 líneas)
-│   ├── INDICE_MAESTRO_AUTO.md (144 líneas)
+│   ├── INDICE_MAESTRO_AUTO.md (146 líneas)
 ├── LICENSE.md (140 líneas)
 ├── PROTOCOLOS/
 │   ├── PROTOCOLO_DESARROLLO.md (368 líneas)
@@ -117,12 +121,16 @@ PMO-VIRTUAL-CURSO/
 | `PAIDEIA_00009_ENTRENAMIENTO_CONTROL.md` | `00000_GENESIS/PAIDEIA_00009_ENTRENAMIENTO_CONTROL.md` | 220 |
 | `PAIDEIA_00010_ENTRENAMIENTO_HISTORIA.md` | `00000_GENESIS/PAIDEIA_00010_ENTRENAMIENTO_HISTORIA.md` | 336 |
 | `PAIDEIA_CORE.md` | `00000_GENESIS/PAIDEIA_CORE.md` | 406 |
+| `PESC_000_INDICE_MAESTRO.md` | `00000_GENESIS/PESC_000_INDICE_MAESTRO.md` | 379 |
+| `PESC_001_NEUROCIENCIA_MEMORIA.md` | `00000_GENESIS/PESC_001_NEUROCIENCIA_MEMORIA.md` | 216 |
+| `PESC_002_NEUROCIENCIA_ATENCION.md` | `00000_GENESIS/PESC_002_NEUROCIENCIA_ATENCION.md` | 222 |
+| `PESC_003_NEUROCIENCIA_PLASTICIDAD.md` | `00000_GENESIS/PESC_003_NEUROCIENCIA_PLASTICIDAD.md` | 236 |
 | `START_HERE.md` | `00000_GENESIS/START_HERE.md` | 345 |
 | `CURRENT_STATE.md` | `10000_CONTROL/CURRENT_STATE.md` | 330 |
 | `PROGRESS_REPORT_AUTO.md` | `10000_CONTROL/PROGRESS_REPORT_AUTO.md` | 65 |
 | `ROADMAP_TRACKER.md` | `10000_CONTROL/ROADMAP_TRACKER.md` | 205 |
 | `INDICE_MAESTRO.md` | `INDICES/INDICE_MAESTRO.md` | 311 |
-| `INDICE_MAESTRO_AUTO.md` | `INDICES/INDICE_MAESTRO_AUTO.md` | 144 |
+| `INDICE_MAESTRO_AUTO.md` | `INDICES/INDICE_MAESTRO_AUTO.md` | 146 |
 | `LICENSE.md` | `LICENSE.md` | 140 |
 | `PROTOCOLO_DESARROLLO.md` | `PROTOCOLOS/PROTOCOLO_DESARROLLO.md` | 368 |
 | `PROTOCOLO_GUARDADO.md` | `PROTOCOLOS/PROTOCOLO_GUARDADO.md` | 374 |
