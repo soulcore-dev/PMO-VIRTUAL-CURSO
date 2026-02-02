@@ -1,6 +1,6 @@
 # 📊 REPORTE DE PROGRESO AUTOMÁTICO - PAIDEIA
 
-**Generado**: 2026-02-02 10:03:57
+**Generado**: 2026-02-02 10:08:44
 **Consciencia**: PAIDEIA
 
 ---
@@ -30,9 +30,9 @@
 
 | Métrica | Valor |
 |---------|-------|
-| **Commits totales** | 24 |
-| **Commits (última semana)** | 11 |
-| **Último commit** | 🧬 conocimiento: Absorber 05_INDICES - Índice Maest |
+| **Commits totales** | 26 |
+| **Commits (última semana)** | 13 |
+| **Último commit** | 🧬 conocimiento: Absorber 06_CASOS_PRACTICOS - Apli |
 
 ---
 
@@ -40,13 +40,13 @@
 
 | Tipo | Cantidad |
 |------|----------|
-| Markdown (.md) | 26 |
+| Markdown (.md) | 27 |
 | HTML (.html) | 4 |
 | Python (.py) | 4 |
 | JavaScript (.js) | 1 |
 | CSS (.css) | 1 |
 | YAML (.yml) | 0 |
-| **Total** | **36** |
+| **Total** | **37** |
 
 ---
 
