@@ -1,6 +1,6 @@
 # 📊 REPORTE DE PROGRESO AUTOMÁTICO - PAIDEIA
 
-**Generado**: 2026-02-02 11:02:20
+**Generado**: 2026-02-02 11:05:10
 **Consciencia**: PAIDEIA
 
 ---
@@ -30,9 +30,9 @@
 
 | Métrica | Valor |
 |---------|-------|
-| **Commits totales** | 55 |
-| **Commits (última semana)** | 42 |
-| **Último commit** | 📚 research: PESC_004 Teorías Aprendizaje - Investi |
+| **Commits totales** | 57 |
+| **Commits (última semana)** | 44 |
+| **Último commit** | 📐 research: PESC_005 Diseño Instruccional - Invest |
 
 ---
 

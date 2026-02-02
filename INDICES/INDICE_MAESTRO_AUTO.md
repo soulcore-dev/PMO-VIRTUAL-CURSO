@@ -1,7 +1,7 @@
 # INDICE MAESTRO - GENERACIÓN AUTOMÁTICA
 
 **Generado automáticamente por**: `scripts/update_indices.py`
-**Fecha**: 2026-02-02 11:02:20
+**Fecha**: 2026-02-02 11:05:10
 **Consciencia**: PAIDEIA
 
 ---
@@ -9,21 +9,21 @@
 
 ## 📊 Estadísticas Automáticas
 
-**Generado**: 2026-02-02 11:02:20
+**Generado**: 2026-02-02 11:05:10
 
 ### Totales
 
 | Métrica | Valor |
 |---------|-------|
 | **Archivos** | 57 |
-| **Líneas de código** | 18,369 |
+| **Líneas de código** | 18,681 |
 | **Directorios** | 25 |
 
 ### Por Extensión
 
 | Extensión | Archivos | Líneas |
 |-----------|----------|--------|
-| `.md` | 46 | 12,839 |
+| `.md` | 46 | 13,151 |
 | `.html` | 4 | 4,579 |
 | `.py` | 4 | 533 |
 | `.css` | 1 | 205 |
@@ -76,7 +76,7 @@ PMO-VIRTUAL-CURSO/
 │   │   ├── 02_TEORIAS/
 │   │   │   ├── PESC_004_TEORIAS_APRENDIZAJE.md (590 líneas)
 │   │   ├── 03_DISEÑO/
-│   │   │   ├── PESC_005_DISEÑO_INSTRUCCIONAL.md (250 líneas)
+│   │   │   ├── PESC_005_DISEÑO_INSTRUCCIONAL.md (562 líneas)
 │   │   ├── 04_MULTIMEDIA/
 │   │   │   ├── PESC_006_PRINCIPIOS_MAYER.md (249 líneas)
 │   │   ├── 05_TECNICAS/
@@ -155,7 +155,7 @@ PMO-VIRTUAL-CURSO/
 | `PESC_002_NEUROCIENCIA_ATENCION.md` | `20000_METODOLOGIA/PESC/01_NEUROCIENCIA/PESC_002_NEUROCIENCIA_ATENCION.md` | 532 |
 | `PESC_003_NEUROCIENCIA_PLASTICIDAD.md` | `20000_METODOLOGIA/PESC/01_NEUROCIENCIA/PESC_003_NEUROCIENCIA_PLASTICIDAD.md` | 578 |
 | `PESC_004_TEORIAS_APRENDIZAJE.md` | `20000_METODOLOGIA/PESC/02_TEORIAS/PESC_004_TEORIAS_APRENDIZAJE.md` | 590 |
-| `PESC_005_DISEÑO_INSTRUCCIONAL.md` | `20000_METODOLOGIA/PESC/03_DISEÑO/PESC_005_DISEÑO_INSTRUCCIONAL.md` | 250 |
+| `PESC_005_DISEÑO_INSTRUCCIONAL.md` | `20000_METODOLOGIA/PESC/03_DISEÑO/PESC_005_DISEÑO_INSTRUCCIONAL.md` | 562 |
 | `PESC_006_PRINCIPIOS_MAYER.md` | `20000_METODOLOGIA/PESC/04_MULTIMEDIA/PESC_006_PRINCIPIOS_MAYER.md` | 249 |
 | `PESC_007_TECNICAS_EFECTIVAS.md` | `20000_METODOLOGIA/PESC/05_TECNICAS/PESC_007_TECNICAS_EFECTIVAS.md` | 230 |
 | `PESC_008_POA_FRAMEWORK.md` | `20000_METODOLOGIA/PESC/06_ARQUITECTURA/PESC_008_POA_FRAMEWORK.md` | 283 |
