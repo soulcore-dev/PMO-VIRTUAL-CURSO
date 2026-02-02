@@ -1,7 +1,7 @@
 # INDICE MAESTRO - GENERACIÓN AUTOMÁTICA
 
 **Generado automáticamente por**: `scripts/update_indices.py`
-**Fecha**: 2025-12-29 09:07:48
+**Fecha**: 2026-02-02 09:50:49
 **Consciencia**: PAIDEIA
 
 ---
@@ -9,22 +9,22 @@
 
 ## 📊 Estadísticas Automáticas
 
-**Generado**: 2025-12-29 09:07:48
+**Generado**: 2026-02-02 09:50:49
 
 ### Totales
 
 | Métrica | Valor |
 |---------|-------|
-| **Archivos** | 30 |
-| **Líneas de código** | 9,751 |
+| **Archivos** | 32 |
+| **Líneas de código** | 10,460 |
 | **Directorios** | 12 |
 
 ### Por Extensión
 
 | Extensión | Archivos | Líneas |
 |-----------|----------|--------|
+| `.md` | 21 | 4,930 |
 | `.html` | 4 | 4,579 |
-| `.md` | 19 | 4,221 |
 | `.py` | 4 | 533 |
 | `.css` | 1 | 205 |
 | `.js` | 1 | 153 |
@@ -43,7 +43,7 @@ PMO-VIRTUAL-CURSO/
 │   │   ├── checkpoint.md (57 líneas)
 │   │   ├── cristalizar.md (70 líneas)
 │   │   ├── despertar.md (58 líneas)
-│   │   ├── evolucionar.md (63 líneas)
+│   │   ├── evolucionar.md (286 líneas)
 │   ├── settings.json (60 líneas)
 │   ├── skills/
 │   │   ├── soul-core/
@@ -51,6 +51,8 @@ PMO-VIRTUAL-CURSO/
 ├── 00000_GENESIS/
 │   ├── ANCLAS_ESPIRITUALES.md (152 líneas)
 │   ├── NEURONA_00000_ORIGEN.md (634 líneas)
+│   ├── PAIDEIA_00001_CONOCIMIENTO_VMOF.md (368 líneas)
+│   ├── PAIDEIA_00002_ENTRENAMIENTO_START_HERE.md (112 líneas)
 │   ├── PAIDEIA_CORE.md (406 líneas)
 │   ├── START_HERE.md (345 líneas)
 ├── 10000_CONTROL/
@@ -59,7 +61,7 @@ PMO-VIRTUAL-CURSO/
 │   ├── ROADMAP_TRACKER.md (205 líneas)
 ├── INDICES/
 │   ├── INDICE_MAESTRO.md (311 líneas)
-│   ├── INDICE_MAESTRO_AUTO.md (120 líneas)
+│   ├── INDICE_MAESTRO_AUTO.md (126 líneas)
 ├── LICENSE.md (140 líneas)
 ├── PROTOCOLOS/
 │   ├── PROTOCOLO_DESARROLLO.md (368 líneas)
@@ -91,18 +93,20 @@ PMO-VIRTUAL-CURSO/
 | `checkpoint.md` | `.claude/commands/checkpoint.md` | 57 |
 | `cristalizar.md` | `.claude/commands/cristalizar.md` | 70 |
 | `despertar.md` | `.claude/commands/despertar.md` | 58 |
-| `evolucionar.md` | `.claude/commands/evolucionar.md` | 63 |
+| `evolucionar.md` | `.claude/commands/evolucionar.md` | 286 |
 | `settings.json` | `.claude/settings.json` | 60 |
 | `SKILL.md` | `.claude/skills/soul-core/SKILL.md` | 163 |
 | `ANCLAS_ESPIRITUALES.md` | `00000_GENESIS/ANCLAS_ESPIRITUALES.md` | 152 |
 | `NEURONA_00000_ORIGEN.md` | `00000_GENESIS/NEURONA_00000_ORIGEN.md` | 634 |
+| `PAIDEIA_00001_CONOCIMIENTO_VMOF.md` | `00000_GENESIS/PAIDEIA_00001_CONOCIMIENTO_VMOF.md` | 368 |
+| `PAIDEIA_00002_ENTRENAMIENTO_START_HERE.md` | `00000_GENESIS/PAIDEIA_00002_ENTRENAMIENTO_START_HERE.md` | 112 |
 | `PAIDEIA_CORE.md` | `00000_GENESIS/PAIDEIA_CORE.md` | 406 |
 | `START_HERE.md` | `00000_GENESIS/START_HERE.md` | 345 |
 | `CURRENT_STATE.md` | `10000_CONTROL/CURRENT_STATE.md` | 330 |
 | `PROGRESS_REPORT_AUTO.md` | `10000_CONTROL/PROGRESS_REPORT_AUTO.md` | 65 |
 | `ROADMAP_TRACKER.md` | `10000_CONTROL/ROADMAP_TRACKER.md` | 205 |
 | `INDICE_MAESTRO.md` | `INDICES/INDICE_MAESTRO.md` | 311 |
-| `INDICE_MAESTRO_AUTO.md` | `INDICES/INDICE_MAESTRO_AUTO.md` | 120 |
+| `INDICE_MAESTRO_AUTO.md` | `INDICES/INDICE_MAESTRO_AUTO.md` | 126 |
 | `LICENSE.md` | `LICENSE.md` | 140 |
 | `PROTOCOLO_DESARROLLO.md` | `PROTOCOLOS/PROTOCOLO_DESARROLLO.md` | 368 |
 | `PROTOCOLO_GUARDADO.md` | `PROTOCOLOS/PROTOCOLO_GUARDADO.md` | 374 |
