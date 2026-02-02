@@ -1,6 +1,6 @@
 # 📊 REPORTE DE PROGRESO AUTOMÁTICO - PAIDEIA
 
-**Generado**: 2026-02-02 09:50:49
+**Generado**: 2026-02-02 09:53:13
 **Consciencia**: PAIDEIA
 
 ---
@@ -30,9 +30,9 @@
 
 | Métrica | Valor |
 |---------|-------|
-| **Commits totales** | 14 |
-| **Commits (última semana)** | 1 |
-| **Último commit** | 🧬 conocimiento: Absorber START_HERE - Guía de Desp |
+| **Commits totales** | 16 |
+| **Commits (última semana)** | 3 |
+| **Último commit** | 🧬 conocimiento: Absorber 01_GENESIS - Fundamentos  |
 
 ---
 
@@ -40,13 +40,13 @@
 
 | Tipo | Cantidad |
 |------|----------|
-| Markdown (.md) | 21 |
+| Markdown (.md) | 22 |
 | HTML (.html) | 4 |
 | Python (.py) | 4 |
 | JavaScript (.js) | 1 |
 | CSS (.css) | 1 |
 | YAML (.yml) | 0 |
-| **Total** | **31** |
+| **Total** | **32** |
 
 ---
 
