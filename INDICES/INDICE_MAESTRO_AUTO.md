@@ -1,7 +1,7 @@
 # INDICE MAESTRO - GENERACIÓN AUTOMÁTICA
 
 **Generado automáticamente por**: `scripts/update_indices.py`
-**Fecha**: 2026-02-02 10:00:02
+**Fecha**: 2026-02-02 10:02:10
 **Consciencia**: PAIDEIA
 
 ---
@@ -9,21 +9,21 @@
 
 ## 📊 Estadísticas Automáticas
 
-**Generado**: 2026-02-02 10:00:02
+**Generado**: 2026-02-02 10:02:10
 
 ### Totales
 
 | Métrica | Valor |
 |---------|-------|
-| **Archivos** | 35 |
-| **Líneas de código** | 11,346 |
+| **Archivos** | 36 |
+| **Líneas de código** | 11,695 |
 | **Directorios** | 12 |
 
 ### Por Extensión
 
 | Extensión | Archivos | Líneas |
 |-----------|----------|--------|
-| `.md` | 24 | 5,816 |
+| `.md` | 25 | 6,165 |
 | `.html` | 4 | 4,579 |
 | `.py` | 4 | 533 |
 | `.css` | 1 | 205 |
@@ -56,6 +56,7 @@ PMO-VIRTUAL-CURSO/
 │   ├── PAIDEIA_00003_ENTRENAMIENTO_GENESIS.md (236 líneas)
 │   ├── PAIDEIA_00004_ENTRENAMIENTO_PROTOCOLOS_CORE.md (317 líneas)
 │   ├── PAIDEIA_00005_ENTRENAMIENTO_VMOF.md (325 líneas)
+│   ├── PAIDEIA_00006_ENTRENAMIENTO_DOCUMENTACION.md (347 líneas)
 │   ├── PAIDEIA_CORE.md (406 líneas)
 │   ├── START_HERE.md (345 líneas)
 ├── 10000_CONTROL/
@@ -64,7 +65,7 @@ PMO-VIRTUAL-CURSO/
 │   ├── ROADMAP_TRACKER.md (205 líneas)
 ├── INDICES/
 │   ├── INDICE_MAESTRO.md (311 líneas)
-│   ├── INDICE_MAESTRO_AUTO.md (134 líneas)
+│   ├── INDICE_MAESTRO_AUTO.md (136 líneas)
 ├── LICENSE.md (140 líneas)
 ├── PROTOCOLOS/
 │   ├── PROTOCOLO_DESARROLLO.md (368 líneas)
@@ -106,13 +107,14 @@ PMO-VIRTUAL-CURSO/
 | `PAIDEIA_00003_ENTRENAMIENTO_GENESIS.md` | `00000_GENESIS/PAIDEIA_00003_ENTRENAMIENTO_GENESIS.md` | 236 |
 | `PAIDEIA_00004_ENTRENAMIENTO_PROTOCOLOS_CORE.md` | `00000_GENESIS/PAIDEIA_00004_ENTRENAMIENTO_PROTOCOLOS_CORE.md` | 317 |
 | `PAIDEIA_00005_ENTRENAMIENTO_VMOF.md` | `00000_GENESIS/PAIDEIA_00005_ENTRENAMIENTO_VMOF.md` | 325 |
+| `PAIDEIA_00006_ENTRENAMIENTO_DOCUMENTACION.md` | `00000_GENESIS/PAIDEIA_00006_ENTRENAMIENTO_DOCUMENTACION.md` | 347 |
 | `PAIDEIA_CORE.md` | `00000_GENESIS/PAIDEIA_CORE.md` | 406 |
 | `START_HERE.md` | `00000_GENESIS/START_HERE.md` | 345 |
 | `CURRENT_STATE.md` | `10000_CONTROL/CURRENT_STATE.md` | 330 |
 | `PROGRESS_REPORT_AUTO.md` | `10000_CONTROL/PROGRESS_REPORT_AUTO.md` | 65 |
 | `ROADMAP_TRACKER.md` | `10000_CONTROL/ROADMAP_TRACKER.md` | 205 |
 | `INDICE_MAESTRO.md` | `INDICES/INDICE_MAESTRO.md` | 311 |
-| `INDICE_MAESTRO_AUTO.md` | `INDICES/INDICE_MAESTRO_AUTO.md` | 134 |
+| `INDICE_MAESTRO_AUTO.md` | `INDICES/INDICE_MAESTRO_AUTO.md` | 136 |
 | `LICENSE.md` | `LICENSE.md` | 140 |
 | `PROTOCOLO_DESARROLLO.md` | `PROTOCOLOS/PROTOCOLO_DESARROLLO.md` | 368 |
 | `PROTOCOLO_GUARDADO.md` | `PROTOCOLOS/PROTOCOLO_GUARDADO.md` | 374 |
