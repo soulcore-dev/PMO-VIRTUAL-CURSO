@@ -1,7 +1,7 @@
 # INDICE MAESTRO - GENERACIÓN AUTOMÁTICA
 
 **Generado automáticamente por**: `scripts/update_indices.py`
-**Fecha**: 2026-02-02 10:31:37
+**Fecha**: 2026-02-02 10:34:59
 **Consciencia**: PAIDEIA
 
 ---
@@ -9,21 +9,21 @@
 
 ## 📊 Estadísticas Automáticas
 
-**Generado**: 2026-02-02 10:31:37
+**Generado**: 2026-02-02 10:34:59
 
 ### Totales
 
 | Métrica | Valor |
 |---------|-------|
-| **Archivos** | 44 |
-| **Líneas de código** | 13,915 |
+| **Archivos** | 48 |
+| **Líneas de código** | 14,895 |
 | **Directorios** | 12 |
 
 ### Por Extensión
 
 | Extensión | Archivos | Líneas |
 |-----------|----------|--------|
-| `.md` | 33 | 8,385 |
+| `.md` | 37 | 9,365 |
 | `.html` | 4 | 4,579 |
 | `.py` | 4 | 533 |
 | `.css` | 1 | 205 |
@@ -66,6 +66,10 @@ PMO-VIRTUAL-CURSO/
 │   ├── PESC_001_NEUROCIENCIA_MEMORIA.md (216 líneas)
 │   ├── PESC_002_NEUROCIENCIA_ATENCION.md (222 líneas)
 │   ├── PESC_003_NEUROCIENCIA_PLASTICIDAD.md (236 líneas)
+│   ├── PESC_004_TEORIAS_APRENDIZAJE.md (243 líneas)
+│   ├── PESC_005_DISEÑO_INSTRUCCIONAL.md (250 líneas)
+│   ├── PESC_006_PRINCIPIOS_MAYER.md (249 líneas)
+│   ├── PESC_007_TECNICAS_EFECTIVAS.md (230 líneas)
 │   ├── START_HERE.md (345 líneas)
 ├── 10000_CONTROL/
 │   ├── CURRENT_STATE.md (330 líneas)
@@ -73,7 +77,7 @@ PMO-VIRTUAL-CURSO/
 │   ├── ROADMAP_TRACKER.md (205 líneas)
 ├── INDICES/
 │   ├── INDICE_MAESTRO.md (311 líneas)
-│   ├── INDICE_MAESTRO_AUTO.md (146 líneas)
+│   ├── INDICE_MAESTRO_AUTO.md (154 líneas)
 ├── LICENSE.md (140 líneas)
 ├── PROTOCOLOS/
 │   ├── PROTOCOLO_DESARROLLO.md (368 líneas)
@@ -125,12 +129,16 @@ PMO-VIRTUAL-CURSO/
 | `PESC_001_NEUROCIENCIA_MEMORIA.md` | `00000_GENESIS/PESC_001_NEUROCIENCIA_MEMORIA.md` | 216 |
 | `PESC_002_NEUROCIENCIA_ATENCION.md` | `00000_GENESIS/PESC_002_NEUROCIENCIA_ATENCION.md` | 222 |
 | `PESC_003_NEUROCIENCIA_PLASTICIDAD.md` | `00000_GENESIS/PESC_003_NEUROCIENCIA_PLASTICIDAD.md` | 236 |
+| `PESC_004_TEORIAS_APRENDIZAJE.md` | `00000_GENESIS/PESC_004_TEORIAS_APRENDIZAJE.md` | 243 |
+| `PESC_005_DISEÑO_INSTRUCCIONAL.md` | `00000_GENESIS/PESC_005_DISEÑO_INSTRUCCIONAL.md` | 250 |
+| `PESC_006_PRINCIPIOS_MAYER.md` | `00000_GENESIS/PESC_006_PRINCIPIOS_MAYER.md` | 249 |
+| `PESC_007_TECNICAS_EFECTIVAS.md` | `00000_GENESIS/PESC_007_TECNICAS_EFECTIVAS.md` | 230 |
 | `START_HERE.md` | `00000_GENESIS/START_HERE.md` | 345 |
 | `CURRENT_STATE.md` | `10000_CONTROL/CURRENT_STATE.md` | 330 |
 | `PROGRESS_REPORT_AUTO.md` | `10000_CONTROL/PROGRESS_REPORT_AUTO.md` | 65 |
 | `ROADMAP_TRACKER.md` | `10000_CONTROL/ROADMAP_TRACKER.md` | 205 |
 | `INDICE_MAESTRO.md` | `INDICES/INDICE_MAESTRO.md` | 311 |
-| `INDICE_MAESTRO_AUTO.md` | `INDICES/INDICE_MAESTRO_AUTO.md` | 146 |
+| `INDICE_MAESTRO_AUTO.md` | `INDICES/INDICE_MAESTRO_AUTO.md` | 154 |
 | `LICENSE.md` | `LICENSE.md` | 140 |
 | `PROTOCOLO_DESARROLLO.md` | `PROTOCOLOS/PROTOCOLO_DESARROLLO.md` | 368 |
 | `PROTOCOLO_GUARDADO.md` | `PROTOCOLOS/PROTOCOLO_GUARDADO.md` | 374 |
