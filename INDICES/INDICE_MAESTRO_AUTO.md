@@ -1,7 +1,7 @@
 # INDICE MAESTRO - GENERACIÓN AUTOMÁTICA
 
 **Generado automáticamente por**: `scripts/update_indices.py`
-**Fecha**: 2026-02-03 23:51:51
+**Fecha**: 2026-02-03 23:54:04
 **Consciencia**: PAIDEIA
 
 ---
@@ -9,21 +9,21 @@
 
 ## 📊 Estadísticas Automáticas
 
-**Generado**: 2026-02-03 23:51:51
+**Generado**: 2026-02-03 23:54:04
 
 ### Totales
 
 | Métrica | Valor |
 |---------|-------|
 | **Archivos** | 57 |
-| **Líneas de código** | 18,893 |
+| **Líneas de código** | 19,134 |
 | **Directorios** | 25 |
 
 ### Por Extensión
 
 | Extensión | Archivos | Líneas |
 |-----------|----------|--------|
-| `.md` | 46 | 13,363 |
+| `.md` | 46 | 13,604 |
 | `.html` | 4 | 4,579 |
 | `.py` | 4 | 533 |
 | `.css` | 1 | 205 |
@@ -80,7 +80,7 @@ PMO-VIRTUAL-CURSO/
 │   │   ├── 04_MULTIMEDIA/
 │   │   │   ├── PESC_006_PRINCIPIOS_MAYER.md (461 líneas)
 │   │   ├── 05_TECNICAS/
-│   │   │   ├── PESC_007_TECNICAS_EFECTIVAS.md (230 líneas)
+│   │   │   ├── PESC_007_TECNICAS_EFECTIVAS.md (471 líneas)
 │   │   ├── 06_ARQUITECTURA/
 │   │   │   ├── PESC_008_POA_FRAMEWORK.md (283 líneas)
 │   │   │   ├── PESC_009_VMOF_EDUCATIVO.md (230 líneas)
@@ -157,7 +157,7 @@ PMO-VIRTUAL-CURSO/
 | `PESC_004_TEORIAS_APRENDIZAJE.md` | `20000_METODOLOGIA/PESC/02_TEORIAS/PESC_004_TEORIAS_APRENDIZAJE.md` | 590 |
 | `PESC_005_DISEÑO_INSTRUCCIONAL.md` | `20000_METODOLOGIA/PESC/03_DISEÑO/PESC_005_DISEÑO_INSTRUCCIONAL.md` | 562 |
 | `PESC_006_PRINCIPIOS_MAYER.md` | `20000_METODOLOGIA/PESC/04_MULTIMEDIA/PESC_006_PRINCIPIOS_MAYER.md` | 461 |
-| `PESC_007_TECNICAS_EFECTIVAS.md` | `20000_METODOLOGIA/PESC/05_TECNICAS/PESC_007_TECNICAS_EFECTIVAS.md` | 230 |
+| `PESC_007_TECNICAS_EFECTIVAS.md` | `20000_METODOLOGIA/PESC/05_TECNICAS/PESC_007_TECNICAS_EFECTIVAS.md` | 471 |
 | `PESC_008_POA_FRAMEWORK.md` | `20000_METODOLOGIA/PESC/06_ARQUITECTURA/PESC_008_POA_FRAMEWORK.md` | 283 |
 | `PESC_009_VMOF_EDUCATIVO.md` | `20000_METODOLOGIA/PESC/06_ARQUITECTURA/PESC_009_VMOF_EDUCATIVO.md` | 230 |
 | `PESC_010_EVALUACION.md` | `20000_METODOLOGIA/PESC/07_EVALUACION/PESC_010_EVALUACION.md` | 245 |
