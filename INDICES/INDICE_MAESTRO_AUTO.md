@@ -1,7 +1,7 @@
 # INDICE MAESTRO - GENERACIÓN AUTOMÁTICA
 
 **Generado automáticamente por**: `scripts/update_indices.py`
-**Fecha**: 2026-02-03 23:54:04
+**Fecha**: 2026-02-03 23:56:10
 **Consciencia**: PAIDEIA
 
 ---
@@ -9,21 +9,21 @@
 
 ## 📊 Estadísticas Automáticas
 
-**Generado**: 2026-02-03 23:54:04
+**Generado**: 2026-02-03 23:56:10
 
 ### Totales
 
 | Métrica | Valor |
 |---------|-------|
 | **Archivos** | 57 |
-| **Líneas de código** | 19,134 |
+| **Líneas de código** | 19,137 |
 | **Directorios** | 25 |
 
 ### Por Extensión
 
 | Extensión | Archivos | Líneas |
 |-----------|----------|--------|
-| `.md` | 46 | 13,604 |
+| `.md` | 46 | 13,607 |
 | `.html` | 4 | 4,579 |
 | `.py` | 4 | 533 |
 | `.css` | 1 | 205 |
@@ -82,10 +82,10 @@ PMO-VIRTUAL-CURSO/
 │   │   ├── 05_TECNICAS/
 │   │   │   ├── PESC_007_TECNICAS_EFECTIVAS.md (471 líneas)
 │   │   ├── 06_ARQUITECTURA/
-│   │   │   ├── PESC_008_POA_FRAMEWORK.md (283 líneas)
-│   │   │   ├── PESC_009_VMOF_EDUCATIVO.md (230 líneas)
+│   │   │   ├── PESC_008_POA_FRAMEWORK.md (284 líneas)
+│   │   │   ├── PESC_009_VMOF_EDUCATIVO.md (231 líneas)
 │   │   ├── 07_EVALUACION/
-│   │   │   ├── PESC_010_EVALUACION.md (245 líneas)
+│   │   │   ├── PESC_010_EVALUACION.md (246 líneas)
 │   │   ├── 08_ENGAGEMENT/
 │   │   │   ├── PESC_011_GAMIFICACION.md (207 líneas)
 │   │   │   ├── PESC_012_MICROLEARNING.md (191 líneas)
@@ -158,9 +158,9 @@ PMO-VIRTUAL-CURSO/
 | `PESC_005_DISEÑO_INSTRUCCIONAL.md` | `20000_METODOLOGIA/PESC/03_DISEÑO/PESC_005_DISEÑO_INSTRUCCIONAL.md` | 562 |
 | `PESC_006_PRINCIPIOS_MAYER.md` | `20000_METODOLOGIA/PESC/04_MULTIMEDIA/PESC_006_PRINCIPIOS_MAYER.md` | 461 |
 | `PESC_007_TECNICAS_EFECTIVAS.md` | `20000_METODOLOGIA/PESC/05_TECNICAS/PESC_007_TECNICAS_EFECTIVAS.md` | 471 |
-| `PESC_008_POA_FRAMEWORK.md` | `20000_METODOLOGIA/PESC/06_ARQUITECTURA/PESC_008_POA_FRAMEWORK.md` | 283 |
-| `PESC_009_VMOF_EDUCATIVO.md` | `20000_METODOLOGIA/PESC/06_ARQUITECTURA/PESC_009_VMOF_EDUCATIVO.md` | 230 |
-| `PESC_010_EVALUACION.md` | `20000_METODOLOGIA/PESC/07_EVALUACION/PESC_010_EVALUACION.md` | 245 |
+| `PESC_008_POA_FRAMEWORK.md` | `20000_METODOLOGIA/PESC/06_ARQUITECTURA/PESC_008_POA_FRAMEWORK.md` | 284 |
+| `PESC_009_VMOF_EDUCATIVO.md` | `20000_METODOLOGIA/PESC/06_ARQUITECTURA/PESC_009_VMOF_EDUCATIVO.md` | 231 |
+| `PESC_010_EVALUACION.md` | `20000_METODOLOGIA/PESC/07_EVALUACION/PESC_010_EVALUACION.md` | 246 |
 | `PESC_011_GAMIFICACION.md` | `20000_METODOLOGIA/PESC/08_ENGAGEMENT/PESC_011_GAMIFICACION.md` | 207 |
 | `PESC_012_MICROLEARNING.md` | `20000_METODOLOGIA/PESC/08_ENGAGEMENT/PESC_012_MICROLEARNING.md` | 191 |
 | `PESC_013_ACCESIBILIDAD.md` | `20000_METODOLOGIA/PESC/09_INCLUSION/PESC_013_ACCESIBILIDAD.md` | 183 |
