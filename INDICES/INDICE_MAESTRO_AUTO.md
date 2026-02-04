@@ -1,7 +1,7 @@
 # INDICE MAESTRO - GENERACIÓN AUTOMÁTICA
 
 **Generado automáticamente por**: `scripts/update_indices.py`
-**Fecha**: 2026-02-03 23:56:10
+**Fecha**: 2026-02-04 00:09:00
 **Consciencia**: PAIDEIA
 
 ---
@@ -9,21 +9,21 @@
 
 ## 📊 Estadísticas Automáticas
 
-**Generado**: 2026-02-03 23:56:10
+**Generado**: 2026-02-04 00:09:00
 
 ### Totales
 
 | Métrica | Valor |
 |---------|-------|
 | **Archivos** | 57 |
-| **Líneas de código** | 19,137 |
+| **Líneas de código** | 21,120 |
 | **Directorios** | 25 |
 
 ### Por Extensión
 
 | Extensión | Archivos | Líneas |
 |-----------|----------|--------|
-| `.md` | 46 | 13,607 |
+| `.md` | 46 | 15,590 |
 | `.html` | 4 | 4,579 |
 | `.py` | 4 | 533 |
 | `.css` | 1 | 205 |
@@ -87,15 +87,15 @@ PMO-VIRTUAL-CURSO/
 │   │   ├── 07_EVALUACION/
 │   │   │   ├── PESC_010_EVALUACION.md (246 líneas)
 │   │   ├── 08_ENGAGEMENT/
-│   │   │   ├── PESC_011_GAMIFICACION.md (207 líneas)
-│   │   │   ├── PESC_012_MICROLEARNING.md (191 líneas)
+│   │   │   ├── PESC_011_GAMIFICACION.md (672 líneas)
+│   │   │   ├── PESC_012_MICROLEARNING.md (571 líneas)
 │   │   ├── 09_INCLUSION/
-│   │   │   ├── PESC_013_ACCESIBILIDAD.md (183 líneas)
-│   │   │   ├── PESC_014_ANDRAGOGIA.md (206 líneas)
+│   │   │   ├── PESC_013_ACCESIBILIDAD.md (658 líneas)
+│   │   │   ├── PESC_014_ANDRAGOGIA.md (492 líneas)
 │   │   ├── 10_APLICACION/
-│   │   │   ├── PESC_015_UX_ESCRITURA.md (218 líneas)
+│   │   │   ├── PESC_015_UX_ESCRITURA.md (594 líneas)
 │   │   ├── 11_TEMPLATES/
-│   │   │   ├── PESC_016_TEMPLATE_CURSO.md (334 líneas)
+│   │   │   ├── PESC_016_TEMPLATE_CURSO.md (335 líneas)
 │   │   ├── PESC_000_INDICE_MAESTRO.md (383 líneas)
 ├── INDICES/
 │   ├── INDICE_MAESTRO.md (311 líneas)
@@ -161,12 +161,12 @@ PMO-VIRTUAL-CURSO/
 | `PESC_008_POA_FRAMEWORK.md` | `20000_METODOLOGIA/PESC/06_ARQUITECTURA/PESC_008_POA_FRAMEWORK.md` | 284 |
 | `PESC_009_VMOF_EDUCATIVO.md` | `20000_METODOLOGIA/PESC/06_ARQUITECTURA/PESC_009_VMOF_EDUCATIVO.md` | 231 |
 | `PESC_010_EVALUACION.md` | `20000_METODOLOGIA/PESC/07_EVALUACION/PESC_010_EVALUACION.md` | 246 |
-| `PESC_011_GAMIFICACION.md` | `20000_METODOLOGIA/PESC/08_ENGAGEMENT/PESC_011_GAMIFICACION.md` | 207 |
-| `PESC_012_MICROLEARNING.md` | `20000_METODOLOGIA/PESC/08_ENGAGEMENT/PESC_012_MICROLEARNING.md` | 191 |
-| `PESC_013_ACCESIBILIDAD.md` | `20000_METODOLOGIA/PESC/09_INCLUSION/PESC_013_ACCESIBILIDAD.md` | 183 |
-| `PESC_014_ANDRAGOGIA.md` | `20000_METODOLOGIA/PESC/09_INCLUSION/PESC_014_ANDRAGOGIA.md` | 206 |
-| `PESC_015_UX_ESCRITURA.md` | `20000_METODOLOGIA/PESC/10_APLICACION/PESC_015_UX_ESCRITURA.md` | 218 |
-| `PESC_016_TEMPLATE_CURSO.md` | `20000_METODOLOGIA/PESC/11_TEMPLATES/PESC_016_TEMPLATE_CURSO.md` | 334 |
+| `PESC_011_GAMIFICACION.md` | `20000_METODOLOGIA/PESC/08_ENGAGEMENT/PESC_011_GAMIFICACION.md` | 672 |
+| `PESC_012_MICROLEARNING.md` | `20000_METODOLOGIA/PESC/08_ENGAGEMENT/PESC_012_MICROLEARNING.md` | 571 |
+| `PESC_013_ACCESIBILIDAD.md` | `20000_METODOLOGIA/PESC/09_INCLUSION/PESC_013_ACCESIBILIDAD.md` | 658 |
+| `PESC_014_ANDRAGOGIA.md` | `20000_METODOLOGIA/PESC/09_INCLUSION/PESC_014_ANDRAGOGIA.md` | 492 |
+| `PESC_015_UX_ESCRITURA.md` | `20000_METODOLOGIA/PESC/10_APLICACION/PESC_015_UX_ESCRITURA.md` | 594 |
+| `PESC_016_TEMPLATE_CURSO.md` | `20000_METODOLOGIA/PESC/11_TEMPLATES/PESC_016_TEMPLATE_CURSO.md` | 335 |
 | `PESC_000_INDICE_MAESTRO.md` | `20000_METODOLOGIA/PESC/PESC_000_INDICE_MAESTRO.md` | 383 |
 | `INDICE_MAESTRO.md` | `INDICES/INDICE_MAESTRO.md` | 311 |
 | `INDICE_MAESTRO_AUTO.md` | `INDICES/INDICE_MAESTRO_AUTO.md` | 193 |
